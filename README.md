@@ -12,3 +12,4 @@ APKs files for Android Apps:
       3. FBC_v1 (1).apk
       4. AppRespSmarthphone.apk
 Example of connection schema
+Images of External and Internal Robotic Device 
